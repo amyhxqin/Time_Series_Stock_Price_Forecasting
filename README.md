@@ -1,4 +1,4 @@
-# Time_Series_Stock_Price_Forecasting
+# Time Series Seasonal Stock Price Forecasting
 
 ### Created by [Amy Qin](https://github.com/amyhxqin)
 ### This project is not for commercial purpose. All data belong to their rightful owner.
