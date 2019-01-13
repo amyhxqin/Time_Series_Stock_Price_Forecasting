@@ -4,7 +4,7 @@
 ### This project is not for commercial purpose. All data belong to their rightful owner.
 
 ## Introduction
-In this exercise, we will predict the price of a seasonal stock through time series forecasting with Facebook's Prophet in Python. A seasonal stock is a type of stock whose price is highly correlated to the consumer demand during a specific time of the year. This is usually a stock from businesses such as airlines and hotel chains. In this notebook, we will attempt to predict the stock price of the former, namely of Air Canada (AC.TO).
+In this exercise, we will predict the price of a seasonal stock through time series forecasting with Facebook's Prophet in Python. A seasonal stock is a type of stock whose price is highly correlated to the consumer demand during a specific time of the year. This is usually a stock from businesses such as airlines and hotel chains. For this project, we will attempt to predict the stock price of the former, namely of Air Canada (AC.TO).
 
 ## Goal
 Evaluate the accuracy of time series forecast with Prophet and suggest adjustements to improve
@@ -19,5 +19,7 @@ Adjustements to improve the model require a deeper understanding of macroeconomy
 
 ## Resources
 [What is a seasonal stock?](https://www.timothysykes.com/blog/seasonal-stocks/)
+
 [Data Source](https://finance.yahoo.com/quote/AC.TO/history?p=AC.TO&.tsrc=fin-srch)
+
 [Prophet](https://research.fb.com/prophet-forecasting-at-scale/)
